@@ -19,6 +19,9 @@
 .env.test.local
 .env.production.local
 
+git_hub_key
+git_hub_key.pub
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
