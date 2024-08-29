@@ -37,6 +37,11 @@
   align-items: center;
   justify-content: center;
 }
+.avatar {
+  border-radius: 50%;
+  border: 3px solid #ddd; /* Optional: adds a border around the avatar */
+  object-fit: cover;
+}
 
 .blog-heading-img-div {
   align-items: center;
